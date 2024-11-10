@@ -2,18 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/user-attachments/assets/7a79ef2a-e251-4dc3-adb2-f5c82e1f7f5e" width="270" height="490">
 <img src="https://github.com/user-attachments/assets/cbd85aea-7f71-4433-a9be-847de03cbb93" width="270" height="490">
 <img src="https://github.com/user-attachments/assets/a8e25ee2-437e-4ea1-93d5-219eda23b93f" width="270" height="490">
@@ -27,7 +15,18 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/user-attachments/assets/f3beeb76-27b4-4b56-b80e-0e10cf66a964" width="270" height="490">
 <img src="https://github.com/user-attachments/assets/53c184ae-7f29-4029-b113-4b07366b06c1" width="270" height="490">
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 
 
