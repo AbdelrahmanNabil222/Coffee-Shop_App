@@ -1,7 +1,7 @@
 # coffee_shop
 
 A new Flutter project.
-![Cream_Modern_Corporate_Download_Our_App_Minimal_Instagram_Story_20241110_204547_0000 1](https://github.com/user-attachments/assets/60136b18-b804-4dc8-bfce-57ea48e762a7)
+![Cream_Modern_Corporate_Download_Our_App_Minimal_Instagram_Story_20241110_204547_0000 1](https://github.com/user-attachments/assets/60136b18-b804-4dc8-bfce-57ea48e762a7 width=300)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
